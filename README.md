@@ -49,9 +49,9 @@ Image contains following TV grabbers:
 #How to use this image
 
 ##Test drive with temporary Docker container
-    sudo docker run -ti --rm iuuuuan/docker-xmltv /bin/bash
+    sudo docker run -ti --rm iuuuuan/xmltv /bin/bash
 
 ##Base image for custom xmltv configuration
 Create your own Dockerfile and use this image for base image
 
-    FROM iuuuuan/docker-xmltv
+    FROM iuuuuan/xmltv
