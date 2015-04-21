@@ -1,6 +1,6 @@
 #Supported tags and respective Dockerfile links
 
-* [0.5.66](https://github.com/iuuuuan/docker-xmltv/blob/master/Dockerfile)
+* [0.5.66](https://github.com/iuuuuan/xmltv/blob/master/Dockerfile)
 
 
 #What is XMLTV?
