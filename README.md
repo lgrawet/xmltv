@@ -1,6 +1,6 @@
 #Supported tags and respective Dockerfile links
 
-* [0.5.66](https://github.com/iuuuuan/xmltv/blob/master/Dockerfile)
+* [0.5.70](https://github.com/iuuuuan/xmltv/blob/master/Dockerfile)
 
 
 #What is XMLTV?
@@ -45,6 +45,7 @@ Image contains following TV grabbers:
 * /usr/local/bin/tv_grab_dk_dr|TV Oversigten fra Danmarks Radios (2012)
 * /usr/local/bin/tv_grab_uk_bleb|United Kingdom (bleb.org)
 * /usr/local/bin/tv_grab_fr|France
+* /usr/local/bin/tv_grab_fr_telerama|France (telerama.fr)
 
 #How to use this image
 
